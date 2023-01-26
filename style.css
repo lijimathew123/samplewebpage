@@ -521,6 +521,7 @@ footer a:hover{
     }
 .hero-container{
     width:calc(100% - 16px);
+    display:inline;
 }
     .hero-container .polygon3{
         display:none;
@@ -544,11 +545,11 @@ footer a:hover{
     }
 
     .hero-container .left{
-        padding-left: 50px;
+        padding-left: 40px;
     }
 
     .a.btn{
-        font-size: 16px;
+        font-size: 12px;
     }
     .hero-container .left .btn{
         margin-right: 5px;
