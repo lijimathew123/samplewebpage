@@ -550,6 +550,10 @@ footer a:hover{
     .a.btn{
         font-size: 16px;
     }
+     .hero-container .left .hero-btn{
+        
+       display: inline-block;
+    }
 
     .brand-section{
         border-radius: 0;
