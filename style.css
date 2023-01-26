@@ -521,7 +521,7 @@ footer a:hover{
     }
 .hero-container{
     width:calc(100% - 16px);
-    display:inline;
+    
 }
     .hero-container .polygon3{
         display:none;
