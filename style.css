@@ -538,24 +538,36 @@ footer a:hover{
      
     .hero-container .left p{
         font-size: 18px;
+         margin-top: 20px;
+        margin-left: 20px;
 
     }
     .hero-container .left h2{
         margin-left: 0;
+        font-size:16px ;
+        margin-left: 20px;
     }
 
     .hero-container .left{
-        padding-left: 40px;
+        padding-left: 30px;
+         margin-right: 0;
     }
 
-    .a.btn{
+    a.btn{
         font-size: 12px;
     }
+    .hero-container .hero-bg{
+        margin-left: 0;
+    }
+
     .hero-container .left .btn{
-        margin-right: 5px;
+        margin-right: 10px;
      }
     .hero-container .left .hero-btn{
        display: inline-block;
+         margin-top: 20px;
+        margin-left: 20px;
+        
     }
 
     .brand-section{
